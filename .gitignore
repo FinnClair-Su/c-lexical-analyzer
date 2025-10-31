@@ -61,7 +61,3 @@ report/
 *.synctex.gz
 *.fdb_latexmk
 *.fls
-
-# Summary files
-*总结.md
-AI痕迹*.md
