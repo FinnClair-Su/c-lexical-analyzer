@@ -1,0 +1,67 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Output directories
+output/
+custom_output/
+output_*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled Object files
+*.o
+*.obj
+*.slo
+*.lo
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+*.la
+
+# Executables
+*.exe
+*.out
+*.app
+lexer
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Kiro
+.kiro/
+
+# Report directory (not to be uploaded)
+report/
+
+# Report auxiliary files
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Summary files
+*总结.md
+AI痕迹*.md
